@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Here I am sharing other social media handles:
+[Gaurav Shrivastav Linkedin](https://www.linkedin.com/in/gaurav-shrivastav-5b4611157/)
+:smile:
