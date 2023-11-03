@@ -1,8 +1,8 @@
 ### Hi there 👋
-* 🔭 I’m currently working on Data Science
+* 🔭 I’m currently working in Data Science
 * 🌱 I’m currently learning DL and ML
-* 🤔 I’m looking for help with DL
-* 💬 Ask me about Python
+* 🤔 I’m looking for help with DL and latest research paper about NLP
+* 💬 Ask me about Python and NLP
 <!--
 **gaurav21s/gaurav21s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
